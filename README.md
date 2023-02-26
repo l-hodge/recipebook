@@ -1,2 +1,1 @@
-# recipebook
-A collection of recipes
+A collection of (hopefully) tasty recipes.
