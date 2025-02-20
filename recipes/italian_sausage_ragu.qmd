@@ -1,0 +1,48 @@
+---
+title: "Italian Sausage Ragu"
+categories: 
+  - meat
+  - pasta
+  - main
+---
+
+::: {.column-page-right}
+A delicious ragu!
+:::
+
+::: column-margin
+## Ingredients
+
+-   1/2 onion, finely diced
+-   3 garlic cloves
+-   6 Italian sausages (w/fennel)
+-   A healthy splash of red wine
+-   1 bay leaf
+-   Pinch of chilli flakes
+-   Salt
+-   Pepper
+-   120ml milk
+-   2 cans chopped tomatoes
+-   Pinch of sugar
+:::
+
+::: column-body
+## Method
+
+-   Fry the onion in some olive oil for a few minutes, and then add the garlic.
+
+-   Squeeze the sausage meat out of their casings into the pan and fry until brown, mixing to break them up.
+
+-   Deglaze the pan with red wine.
+
+-   Throw in a bay leaf and chilli flakes, before pouring in the milk and stir for 3 minutes.
+
+-   Add the chopped tomatoes and a pinch of sugar and simmer for 25 minutes.
+
+-   Meanwhile cook the rigatoni according to the packet.
+
+-   Season the sauce and stir through the pasta.
+
+-   Serve with a sprinkle of parmesan.
+
+:::

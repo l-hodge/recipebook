@@ -1,0 +1,8 @@
+---
+listing: 
+  contents: "recipes/*.qmd"
+  image-align: left
+  fields: [title, description]
+  categories: true
+  filter-ui: true
+---

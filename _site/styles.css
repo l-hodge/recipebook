@@ -1,0 +1,35 @@
+/* css styles */
+
+#title-block-header{
+  grid-column: body-content-start/screen-end-inset;
+}
+
+.column-margin{
+  color: var(--bs-body-color);
+}
+
+#quarto-content>*{
+  padding-top: 0px;
+}
+
+.column-margin.column-container > :not(.collapse){
+  padding-top: 1em;
+}
+
+.quarto-listing-category-title{
+  padding-top: 1em;
+}
+
+h2{
+  margin-top: 0rem;
+  margin-bottom: 0rem;
+}
+
+h4{
+  margin-top: 0rem;
+}
+
+p{
+  margin-top: 0rem;
+  margin-bottom: 0rem;
+}

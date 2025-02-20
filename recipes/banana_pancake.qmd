@@ -1,0 +1,34 @@
+---
+title: "Banana Pancakes"
+categories: 
+  - breakfast
+  - sweet
+  - veggie
+---
+
+::: {.column-page-right}
+Bananas!
+:::
+
+::: column-margin
+## Ingredients
+
+-   1 egg
+-   2 bananas
+-   1 tsp baking powder
+-   120g self-raising flour
+-   225ml milk
+-   Knob of butter
+:::
+
+::: column-body
+## Method
+
+-   Mash the bananas in a bowl.
+-   Whisk in the egg with a fork.
+-   Mix in half the flour, then half the milk, followed by the rest of the flour and the rest of the milk.
+-   Finally, mix in the baking powder.
+-   Heat a frying pan with a knob of butter, spoon in three or four dollops of mixture, fry for two minutes on each side.
+-   Repeat. Recipes make about 18 4" diameter pancakes.
+
+:::
