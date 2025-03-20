@@ -1,79 +1,156 @@
 [
   {
-    "objectID": "recipes/italian_sausage_ragu.html",
-    "href": "recipes/italian_sausage_ragu.html",
-    "title": "Italian Sausage Ragu",
+    "objectID": "recipes/tomato_bean_stew.html",
+    "href": "recipes/tomato_bean_stew.html",
+    "title": "Tomato Butter Bean Stew",
     "section": "",
-    "text": "A delicious ragu!"
+    "text": "A tasty, hearty bean stew! Serves 4."
   },
   {
-    "objectID": "recipes/italian_sausage_ragu.html#ingredients",
-    "href": "recipes/italian_sausage_ragu.html#ingredients",
-    "title": "Italian Sausage Ragu",
+    "objectID": "recipes/tomato_bean_stew.html#ingredients",
+    "href": "recipes/tomato_bean_stew.html#ingredients",
+    "title": "Tomato Butter Bean Stew",
     "section": "Ingredients",
-    "text": "Ingredients\n\n1/2 onion, finely diced\n3 garlic cloves\n6 Italian sausages (w/fennel)\nA healthy splash of red wine\n1 bay leaf\nPinch of chilli flakes\nSalt\nPepper\n120ml milk\n2 cans chopped tomatoes\nPinch of sugar"
+    "text": "Ingredients\n\nOlive oil\n1 small red onion, finely diced\nSalt\n4 cloves of garlic, finely sliced\nPinch of chilli flakes\n1 tbsp oregano\nGenerous grind of black pepper\n1 tbsp tomato puree\n200g cherry tomatoes, halved\n1 can chopped tomatoes\nPinch of sugar\nHalf a stock cube\n2 can butter beans, incl. liquid\nSqueeze of lemon\nBaguette"
   },
   {
-    "objectID": "recipes/italian_sausage_ragu.html#method",
-    "href": "recipes/italian_sausage_ragu.html#method",
-    "title": "Italian Sausage Ragu",
+    "objectID": "recipes/tomato_bean_stew.html#method",
+    "href": "recipes/tomato_bean_stew.html#method",
+    "title": "Tomato Butter Bean Stew",
     "section": "Method",
-    "text": "Method\n\nFry the onion in some olive oil for a few minutes, and then add the garlic.\nSqueeze the sausage meat out of their casings into the pan and fry until brown, mixing to break them up.\nDeglaze the pan with red wine.\nThrow in a bay leaf and chilli flakes, before pouring in the milk and stir for 3 minutes.\nAdd the chopped tomatoes and a pinch of sugar and simmer for 25 minutes.\nMeanwhile cook the rigatoni according to the packet.\nSeason the sauce and stir through the pasta.\nServe with a sprinkle of parmesan."
+    "text": "Method\n\nSweat down the diced red onion in some olive oil and a grind of salt, until translucent, about 5 minutes.\nSaute garlic for 1 minute, before frying off chilli, oregano, black pepper and tomato paste.\nAdd both cherry and chopped tomatoes, with a pinch of sugar and half a stock cube. Bring to a simmer for 10 minutes.\nPour in butter beans along with the liquid from the cans and a squeeze of lemon juice. Simmer gently for another 10 minutes, adding water as nessecary to achieve desired consistency.\nAdjust seasoning to taste and serve with fresh crusty baguette."
   },
   {
-    "objectID": "recipes/aubtom_pasta.html",
-    "href": "recipes/aubtom_pasta.html",
-    "title": "Tomato and aubergine one-pot baked pasta",
+    "objectID": "recipes/tomato_bean_stew.html#possible-additions",
+    "href": "recipes/tomato_bean_stew.html#possible-additions",
+    "title": "Tomato Butter Bean Stew",
+    "section": "Possible additions",
+    "text": "Possible additions\n\nA few handfuls of spinach.\nSliced pieces of a good quality sausage."
+  },
+  {
+    "objectID": "recipes/dal_makhani.html",
+    "href": "recipes/dal_makhani.html",
+    "title": "Dal Makhani",
     "section": "",
-    "text": "Delicious buttery, hearty pasta! Serves 4"
+    "text": "Dishoom’s famous dal but quickly (ish!). Punjabi comfort food! Serves 3 as a main, 4 as a side."
   },
   {
-    "objectID": "recipes/aubtom_pasta.html#ingredients",
-    "href": "recipes/aubtom_pasta.html#ingredients",
-    "title": "Tomato and aubergine one-pot baked pasta",
+    "objectID": "recipes/dal_makhani.html#ingredients",
+    "href": "recipes/dal_makhani.html#ingredients",
+    "title": "Dal Makhani",
     "section": "Ingredients",
-    "text": "Ingredients\n\n60ml olive oil\n2 aubergines, quartered lengthways and then each quarter cut in half widthways\n350g cherry tomatoes, half sliced and half left whole\n400g tin of chopped tomatoes\n1 tsp dried oregano\n20g basil leaves, roughly torn, plus a few extra leaves to serve\n6 garlic cloves, thinly sliced\n1 red chilli, sliced in half lengthways\n2 tbsp tomato paste\n1 tsp caster sugar\n100g unsalted butter, cut into 2cm cubes\n250g dried fusilloni\n400ml boiling water\nParmesan, finely grated\nSalt and black pepper"
+    "text": "Ingredients\n\n2 cans black lentils (400g) [urad dal]\n2 generous knobs of butter\n1/2 a white onion\n5 garlic cloves, finely chopped\n1 inch of ginger, finely chopped\n1 red chilli, finely chopped\n2 tbsp of tomato puree\n3 tsp garam masala\n2 tsp coriander\n1 tsp cumin\n1/2 tsp chilli powder\nSplash of double/whipping cream\nSalt and pepper"
   },
   {
-    "objectID": "recipes/aubtom_pasta.html#method",
-    "href": "recipes/aubtom_pasta.html#method",
-    "title": "Tomato and aubergine one-pot baked pasta",
+    "objectID": "recipes/dal_makhani.html#method",
+    "href": "recipes/dal_makhani.html#method",
+    "title": "Dal Makhani",
     "section": "Method",
-    "text": "Method\n\nPreheat the oven to 200°C fan.\nPut the oil into a large ovenproof sauté pan, along with the aubergines, 1 teaspoon of salt and a good grind of pepper. Toss to combine, then arrange the aubergines skin side down. Roast for 30 minutes, until nicely golden and starting to catch in places.\nAdd all the remaining ingredients to the pan, apart from the Parmesan, along with a healthy amount of salt and pepper. Stir to combine, then bake for another 30 minutes, covered.\nGive everything a good stir and cook for a final 10-15 minutes, uncovered, until the sauce clings to the pasta. Serve with Parmesan and extra basil leaves sprinkled over.\n\nInspiration: Yotam Ottolenghi ‘Comfort’"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "This is a collection of recipes."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Cookbook",
-    "section": "",
-    "text": "Banana Pancakes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nItalian Sausage Ragu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTomato and aubergine one-pot baked pasta\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Method\n\nBoil the lentils for 1 hour in the liquid from the tin and a little water.\nHeat a large knob of butter in a saucepan, saute onion until translucent, then add most of the chilli (save a little for topping), garlic and ginger for a couple of minutes.\nAdd dry spices and fry until fragrant before adding the tomato paste and drained lentils.\nCover the lentils with water and bring to the boil. Then simmer on a low heat with the lid on for 2 hours. Check regularly that there is enough water and stir to prevent the dal sticking to the bottom of the pan.\nUse a stick blender to break up some of the lentils, but leave some lentils intact. Finish with a splash of cream and another knob of butter.\nServe with rice of naan bread, coriander and the remaining diced chilli.\n\nInspiration: Dishoom"
   },
   {
     "objectID": "recipes/banana_pancake.html",
     "href": "recipes/banana_pancake.html",
     "title": "Banana Pancakes",
     "section": "",
-    "text": "Bananas!"
+    "text": "Bananas! Makes about 18, 4” diameter, pancakes."
   },
   {
     "objectID": "recipes/banana_pancake.html#ingredients",
     "href": "recipes/banana_pancake.html#ingredients",
     "title": "Banana Pancakes",
     "section": "Ingredients",
-    "text": "Ingredients\n\n1 egg\n2 bananas\n1 tsp baking powder\n120g self-raising flour\n225ml milk\nKnob of butter"
+    "text": "Ingredients\n\n1 egg\n2 ripe bananas\n1 tsp baking powder\n120g self-raising flour\n225ml milk\nKnob of butter"
   },
   {
     "objectID": "recipes/banana_pancake.html#method",
     "href": "recipes/banana_pancake.html#method",
     "title": "Banana Pancakes",
     "section": "Method",
-    "text": "Method\n\nMash the bananas in a bowl.\nWhisk in the egg with a fork.\nMix in half the flour, then half the milk, followed by the rest of the flour and the rest of the milk.\nFinally, mix in the baking powder.\nHeat a frying pan with a knob of butter, spoon in three or four dollops of mixture, fry for two minutes on each side.\nRepeat. Recipes make about 18 4” diameter pancakes."
+    "text": "Method\n\nMash the bananas in a bowl.\nWhisk in the egg with a fork.\nMix in half the flour, then half the milk, followed by the rest of the flour and the rest of the milk.\nTo complete the batter, mix in the baking powder.\nHeat a frying pan with a knob of butter, spoon in three or four dollops of mixture, fry for two minutes on each side.\nRepeat. Top with your choice of fresh fruit and/or maple syrup."
+  },
+  {
+    "objectID": "recipes/banana_pancake.html#possible-additions",
+    "href": "recipes/banana_pancake.html#possible-additions",
+    "title": "Banana Pancakes",
+    "section": "Possible additions",
+    "text": "Possible additions\n\nPress a few blueberry’s into each pancake whilst frying for some delicious, gooey flavour bombs!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Cookbook",
+    "section": "",
+    "text": "Banana Pancakes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nChicken Tikka\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDal Makhani\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nItalian Sausage Ragu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTomato Butter Bean Stew\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTomato and Aubergine One-Pot Baked Pasta\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This is a collection of recipes I like to make."
+  },
+  {
+    "objectID": "recipes/aubtom_pasta.html",
+    "href": "recipes/aubtom_pasta.html",
+    "title": "Tomato and Aubergine One-Pot Baked Pasta",
+    "section": "",
+    "text": "Delicious buttery, hearty pasta! Serves 4."
+  },
+  {
+    "objectID": "recipes/aubtom_pasta.html#ingredients",
+    "href": "recipes/aubtom_pasta.html#ingredients",
+    "title": "Tomato and Aubergine One-Pot Baked Pasta",
+    "section": "Ingredients",
+    "text": "Ingredients\n\n60ml olive oil\n2 aubergines, quartered lengthways and then each quarter cut in half widthways\n350g cherry tomatoes, half sliced and half left whole\n400g tin of chopped tomatoes\n1 tsp dried oregano\n20g basil leaves, roughly torn, plus a few extra leaves to serve\n6 garlic cloves, thinly sliced\n1 red chilli, sliced in half lengthways\n2 tbsp tomato paste\n1 tsp caster sugar\n100g unsalted butter, cut into 2cm cubes\n250g dried fusilloni\n400ml boiling water\nParmesan, finely grated\nSalt and black pepper"
+  },
+  {
+    "objectID": "recipes/aubtom_pasta.html#method",
+    "href": "recipes/aubtom_pasta.html#method",
+    "title": "Tomato and Aubergine One-Pot Baked Pasta",
+    "section": "Method",
+    "text": "Method\n\nPreheat the oven to 200°C fan.\nPut the oil into a large ovenproof sauté pan, along with the aubergines, 1 teaspoon of salt and a good grind of pepper. Toss to combine, then arrange the aubergines skin side down. Roast for 30 minutes, until nicely golden and starting to catch in places.\nAdd all the remaining ingredients to the pan, apart from the Parmesan, along with a healthy amount of salt and pepper. Stir to combine, then bake for another 30 minutes, covered.\nGive everything a good stir and cook for a final 10-15 minutes, uncovered, until the sauce clings to the pasta. Serve with Parmesan and extra basil leaves sprinkled over.\n\nInspiration: Yotam Ottolenghi ‘Comfort’"
+  },
+  {
+    "objectID": "recipes/chicken_tikka.html",
+    "href": "recipes/chicken_tikka.html",
+    "title": "Chicken Tikka",
+    "section": "",
+    "text": "Eat as a side or whip up a masala sauce to make it a main dish. Makes around 36 bite-sized pieces of chicken tikka."
+  },
+  {
+    "objectID": "recipes/chicken_tikka.html#ingredients",
+    "href": "recipes/chicken_tikka.html#ingredients",
+    "title": "Chicken Tikka",
+    "section": "Ingredients",
+    "text": "Ingredients\n\n600g chicken breast, cut into bite sized pieces\n125g Greek yogurt\nHealthy squeeze of lemon juice\n2 garlic cloves, finely chopped\n1/2 inch of ginger, finely chopped\n1 tbsp garam masala\n1 tsp cumin\n1 tsp coriander\n1 tsp paprika\n1 tsp turmeric\n1/2 tsp fenugreek seeds\nPinch of chilli flakes\nHealthy grind of salt\nHealthy grind of pepper"
+  },
+  {
+    "objectID": "recipes/chicken_tikka.html#method",
+    "href": "recipes/chicken_tikka.html#method",
+    "title": "Chicken Tikka",
+    "section": "Method",
+    "text": "Method\n\nMix all the ingredients together in a bowl and leave in the fridge for as long as possible. Min 2 hours, max 48 hours.\nWhen ready to cook, preheat the oven to 200°C fan.\nSkewer the chicken on (soaked) wooden sticks, and place in the oven for 20 minutes, turning half way through.\n\nInspiration: Tyler Butt"
+  },
+  {
+    "objectID": "recipes/italian_sausage_ragu.html",
+    "href": "recipes/italian_sausage_ragu.html",
+    "title": "Italian Sausage Ragu",
+    "section": "",
+    "text": "A delicious ragu! Serves 4."
+  },
+  {
+    "objectID": "recipes/italian_sausage_ragu.html#ingredients",
+    "href": "recipes/italian_sausage_ragu.html#ingredients",
+    "title": "Italian Sausage Ragu",
+    "section": "Ingredients",
+    "text": "Ingredients\n\n1/2 onion, finely diced\n3 garlic cloves\n6 Italian sausages (w/fennel)\nA healthy splash of red wine\n1 bay leaf\nPinch of chilli flakes\nSalt\nPepper\n120ml milk\n2 cans chopped tomatoes\nPinch of sugar\nRigatoni"
+  },
+  {
+    "objectID": "recipes/italian_sausage_ragu.html#method",
+    "href": "recipes/italian_sausage_ragu.html#method",
+    "title": "Italian Sausage Ragu",
+    "section": "Method",
+    "text": "Method\n\nFry the onion in some olive oil for a few minutes, and then add the garlic.\nSqueeze the sausage meat out of their casings into the pan and fry until brown, mixing to break them up.\nDeglaze the pan with red wine. Throw in a bay leaf and chilli flakes, before pouring in the milk and stir for 3 minutes.\nAdd the chopped tomatoes and a pinch of sugar and simmer for 25 minutes.\nMeanwhile cook the rigatoni according to the packet.\nSeason the sauce and stir through the pasta. Serve with a sprinkle of parmesan."
   }
 ]

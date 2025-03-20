@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-This is a collection of recipes.
+This is a collection of recipes I like to make.

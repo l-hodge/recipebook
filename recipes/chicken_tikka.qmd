@@ -1,0 +1,39 @@
+---
+title: "Chicken Tikka"
+categories: 
+  - chicken
+  - side
+---
+
+::: column-page-right
+Eat as a side or whip up a masala sauce to make it a main dish. *Makes around 36 bite-sized pieces of chicken tikka.*
+:::
+
+::: column-margin
+## Ingredients
+
+-   600g chicken breast, cut into bite sized pieces
+-   125g Greek yogurt
+-   Healthy squeeze of lemon juice
+-   2 garlic cloves, finely chopped
+-   1/2 inch of ginger, finely chopped
+-   1 tbsp garam masala
+-   1 tsp cumin
+-   1 tsp coriander
+-   1 tsp paprika
+-   1 tsp turmeric
+-   1/2 tsp fenugreek seeds
+-   Pinch of chilli flakes
+-   Healthy grind of salt
+-   Healthy grind of pepper
+:::
+
+::: column-body
+## Method
+
+-   Mix all the ingredients together in a bowl and leave in the fridge for as long as possible. Min 2 hours, max 48 hours.
+-   When ready to cook, preheat the oven to 200°C fan.
+-   Skewer the chicken on (soaked) wooden sticks, and place in the oven for 20 minutes, turning half way through.
+
+*Inspiration:* [Tyler Butt](https://www.instagram.com/reel/DG8xBItuRoW/?igsh=MTAyNXJrcGhiMGwwbg==)
+:::

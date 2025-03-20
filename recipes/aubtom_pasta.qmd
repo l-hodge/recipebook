@@ -1,46 +1,45 @@
 ---
-title: "Tomato and aubergine one-pot baked pasta"
+title: "Tomato and Aubergine One-Pot Baked Pasta"
 categories: 
   - veggie
   - pasta
   - main
 ---
 
-::: {.column-page-right}
-Delicious buttery, hearty pasta! *Serves 4*
+::: column-page-right
+Delicious buttery, hearty pasta! *Serves 4.*
 :::
 
 ::: column-margin
 ## Ingredients
 
-- 60ml olive oil
-- 2 aubergines, quartered lengthways and then each quarter cut in half widthways
-- 350g cherry tomatoes, half sliced and half left whole
-- 400g tin of chopped tomatoes
-- 1 tsp dried oregano
-- 20g basil leaves, roughly torn, plus a few extra leaves to serve
-- 6 garlic cloves, thinly sliced
-- 1 red chilli, sliced in half lengthways
-- 2 tbsp tomato paste
-- 1 tsp caster sugar
-- 100g unsalted butter, cut into 2cm cubes
-- 250g dried fusilloni
-- 400ml boiling water
-- Parmesan, finely grated
-- Salt and black pepper
-
+-   60ml olive oil
+-   2 aubergines, quartered lengthways and then each quarter cut in half widthways
+-   350g cherry tomatoes, half sliced and half left whole
+-   400g tin of chopped tomatoes
+-   1 tsp dried oregano
+-   20g basil leaves, roughly torn, plus a few extra leaves to serve
+-   6 garlic cloves, thinly sliced
+-   1 red chilli, sliced in half lengthways
+-   2 tbsp tomato paste
+-   1 tsp caster sugar
+-   100g unsalted butter, cut into 2cm cubes
+-   250g dried fusilloni
+-   400ml boiling water
+-   Parmesan, finely grated
+-   Salt and black pepper
 :::
 
 ::: column-body
 ## Method
 
-- Preheat the oven to 200°C fan.
+-   Preheat the oven to 200°C fan.
 
-- Put the oil into a large ovenproof sauté pan, along with the aubergines, 1 teaspoon of salt and a good grind of pepper. Toss to combine, then arrange the aubergines skin side down. Roast for 30 minutes, until nicely golden and starting to catch in places.
+-   Put the oil into a large ovenproof sauté pan, along with the aubergines, 1 teaspoon of salt and a good grind of pepper. Toss to combine, then arrange the aubergines skin side down. Roast for 30 minutes, until nicely golden and starting to catch in places.
 
-- Add all the remaining ingredients to the pan, apart from the Parmesan, along with a healthy amount of salt and pepper. Stir to combine, then bake for another 30 minutes, covered.
+-   Add all the remaining ingredients to the pan, apart from the Parmesan, along with a healthy amount of salt and pepper. Stir to combine, then bake for another 30 minutes, covered.
 
-- Give everything a good stir and cook for a final 10-15 minutes, uncovered, until the sauce clings to the pasta. Serve with Parmesan and extra basil leaves sprinkled over.
+-   Give everything a good stir and cook for a final 10-15 minutes, uncovered, until the sauce clings to the pasta. Serve with Parmesan and extra basil leaves sprinkled over.
 
 *Inspiration: Yotam Ottolenghi 'Comfort'*
 :::

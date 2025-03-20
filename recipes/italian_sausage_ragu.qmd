@@ -6,8 +6,8 @@ categories:
   - main
 ---
 
-::: {.column-page-right}
-A delicious ragu!
+::: column-page-right
+A delicious ragu! *Serves 4.*
 :::
 
 ::: column-margin
@@ -24,6 +24,7 @@ A delicious ragu!
 -   120ml milk
 -   2 cans chopped tomatoes
 -   Pinch of sugar
+-   Rigatoni
 :::
 
 ::: column-body
@@ -33,16 +34,11 @@ A delicious ragu!
 
 -   Squeeze the sausage meat out of their casings into the pan and fry until brown, mixing to break them up.
 
--   Deglaze the pan with red wine.
-
--   Throw in a bay leaf and chilli flakes, before pouring in the milk and stir for 3 minutes.
+-   Deglaze the pan with red wine. Throw in a bay leaf and chilli flakes, before pouring in the milk and stir for 3 minutes.
 
 -   Add the chopped tomatoes and a pinch of sugar and simmer for 25 minutes.
 
 -   Meanwhile cook the rigatoni according to the packet.
 
--   Season the sauce and stir through the pasta.
-
--   Serve with a sprinkle of parmesan.
-
+-   Season the sauce and stir through the pasta. Serve with a sprinkle of parmesan.
 :::

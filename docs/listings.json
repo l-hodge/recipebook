@@ -3,7 +3,10 @@
     "listing": "/index.html",
     "items": [
       "/recipes/banana_pancake.html",
+      "/recipes/chicken_tikka.html",
+      "/recipes/dal_makhani.html",
       "/recipes/italian_sausage_ragu.html",
+      "/recipes/tomato_bean_stew.html",
       "/recipes/aubtom_pasta.html"
     ]
   }

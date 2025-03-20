@@ -6,15 +6,15 @@ categories:
   - veggie
 ---
 
-::: {.column-page-right}
-Bananas!
+::: column-page-right
+Bananas! *Makes about 18, 4" diameter, pancakes.*
 :::
 
 ::: column-margin
 ## Ingredients
 
 -   1 egg
--   2 bananas
+-   2 ripe bananas
 -   1 tsp baking powder
 -   120g self-raising flour
 -   225ml milk
@@ -27,8 +27,11 @@ Bananas!
 -   Mash the bananas in a bowl.
 -   Whisk in the egg with a fork.
 -   Mix in half the flour, then half the milk, followed by the rest of the flour and the rest of the milk.
--   Finally, mix in the baking powder.
+-   To complete the batter, mix in the baking powder.
 -   Heat a frying pan with a knob of butter, spoon in three or four dollops of mixture, fry for two minutes on each side.
--   Repeat. Recipes make about 18 4" diameter pancakes.
+-   Repeat. Top with your choice of fresh fruit and/or maple syrup.
 
+## Possible additions
+
+-   Press a few blueberry's into each pancake whilst frying for some delicious, gooey flavour bombs!
 :::
