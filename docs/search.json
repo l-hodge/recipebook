@@ -70,11 +70,25 @@
     "text": "Possible additions\n\nPress a few blueberry’s into each pancake whilst frying for some delicious, gooey flavour bombs!"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Cookbook",
+    "objectID": "recipes/afgan_chickpea.html",
+    "href": "recipes/afgan_chickpea.html",
+    "title": "Afghan Chickpea Curry",
     "section": "",
-    "text": "Banana Pancakes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nChicken Tikka\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDal Makhani\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nItalian Sausage Ragu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTomato Butter Bean Stew\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTomato and Aubergine One-Pot Baked Pasta\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Chickpeas and lentils come together to make a delicious meaty curry. Serves 4 as a main, 6 as a side."
+  },
+  {
+    "objectID": "recipes/afgan_chickpea.html#ingredients",
+    "href": "recipes/afgan_chickpea.html#ingredients",
+    "title": "Afghan Chickpea Curry",
+    "section": "Ingredients",
+    "text": "Ingredients\n\n3 tbsp butter\n1 cinnamon stick\n4-6 curry leaves\n2 shallots (or 1 onion), finely chopped\n3 garlic cloves, minced\nThumb of ginger, minced\n120g red lentils\n1 litre chicken (or vegetable) stock\nSalt and pepper\n2 jars of chickpeas, drained\n1/4 tsp baking powder\n1 tbsp coriander powder\n1 tbsp cumin powder\n2 tsp turmeric powder\n2 tsp garam masala"
+  },
+  {
+    "objectID": "recipes/afgan_chickpea.html#method",
+    "href": "recipes/afgan_chickpea.html#method",
+    "title": "Afghan Chickpea Curry",
+    "section": "Method",
+    "text": "Method\n\nMelt the butter in over medium high heat. Add the cinnamon and curry leaves, toast for 30 seconds. Fry the onion until translucent, adding ginger and garlic half way.\nFry off the spices (coriander, cumin, turmeric and garam masala) for 30 seconds. Add the lentils and stir to coat in the spices.\nPour in the stock with a turn of salt. Lower the heat and simmer for 15 minutes with the lid on.\nAdd the chickpeas and baking soda. Bring back to a simmer again for 30 minutes with the lid. Simmer for a further 5-10 minutes without the lid to thicken to the desired consistency.\nServe with rice and/or flatbreads. Top with fresh coriander.\n\nInspiration: Recipe Tin Eats"
   },
   {
     "objectID": "about.html",
@@ -82,6 +96,13 @@
     "title": "About",
     "section": "",
     "text": "This is a collection of recipes I like to make."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Cookbook",
+    "section": "",
+    "text": "Afghan Chickpea Curry\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBanana Pancakes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nChicken Tikka\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDal Makhani\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nItalian Sausage Ragu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTomato Butter Bean Stew\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTomato and Aubergine One-Pot Baked Pasta\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "recipes/aubtom_pasta.html",
